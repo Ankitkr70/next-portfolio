@@ -1,5 +1,5 @@
 import Head from "next/head";
-import { MdDarkMode } from "react-icons/Md";
+import { MdDarkMode } from "react-icons/md";
 import Image from "next/image";
 import ankit from "../public/profile1.png";
 import Typewriter from "typewriter-effect";
